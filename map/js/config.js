@@ -8,3 +8,5 @@ config.map_width = "800px";
 
 config.color_scale = "blue";
 config.color_multiplier = 5;
+
+
